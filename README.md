@@ -26,7 +26,7 @@ znajduje się w sekcji [Algorytm](#algorytm).
 
 Poniżej przedstawiam przykładowy przebieg symulacji w trybie interaktywnym dla pliku `presets/sample.json`.
 
-![Przykładowy przebieg symulacji traffic-lights w trybie interaktywnym.](/assets/simulation.png "Przykładowy przebieg symulacji traffic-lights w trybie interaktywnym dla pliku presets/sample.json")
+![Przykładowy przebieg symulacji traffic-lights w trybie interaktywnym.](assets/simulation.png "Przykładowy przebieg symulacji traffic-lights w trybie interaktywnym dla pliku presets/sample.json")
 
 
 ## Algorytm
@@ -98,7 +98,7 @@ ale jak wcześniej zaznaczyłem, dana faza światła może składać się z wiel
 Połączenie wschodnio-zachodnie (`wschód -> zachód`, `zachód -> wschód`) dzieje się jednocześnie, natomiast połączenie
 `północ -> południe` i `południe -> północ` mają sygnalizację zieloną w innych fazach.
 
-![Skrzyżowanie ulic Piastowskiej z Armii Krajowej w Krakowie, deszczowy dzień](/assets/intersection.jpeg "Skrzyżowanie ulic Piastowskiej z Armii Krajowej w deszczowy dzień (fot. Michał Ołubiec).")
+![Skrzyżowanie ulic Piastowskiej z Armii Krajowej w Krakowie, deszczowy dzień](assets/intersection.jpeg "Skrzyżowanie ulic Piastowskiej z Armii Krajowej w deszczowy dzień (fot. Michał Ołubiec).")
 
 ### Metoda Webstera
 
