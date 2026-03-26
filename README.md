@@ -11,7 +11,7 @@ tsx src/interactive.ts f presets/sample.json
 ```
 
 W tym przypadku zostanie uruchomiona interaktywna symulacja `presets/sample.json`, jest ona uruchomiona w trybie `f` &mdash; 
-`fast forward`, czyli w przyśpieszeniu. Domyślnie jest to 5x krotne przyśpieszenie. Symulacja bazuje na czasach, które można
+`fast forward`, czyli w przyspieszeniu. Domyślnie jest to 5x krotne przyspieszenie. Symulacja bazuje na czasach, które można
 zaobserwować na prawdziwych skrzyżowaniach, dlatego tryb `f` jest wygodny do testowania. Podanie opcji `r` (lub dowolnego ciągu znaków)
 uruchomi symulację w tempie domyślnym.
 
