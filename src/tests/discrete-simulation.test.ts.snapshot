@@ -1,0 +1,245 @@
+exports[`Snapshot tests a many cars preset. 1`] = `
+{
+  "stepStatuses": [
+    {
+      "leftVehicles": []
+    },
+    {
+      "leftVehicles": []
+    },
+    {
+      "leftVehicles": [
+        "vehicle3",
+        "vehicle4"
+      ]
+    },
+    {
+      "leftVehicles": [
+        "vehicle11",
+        "vehicle12"
+      ]
+    },
+    {
+      "leftVehicles": []
+    },
+    {
+      "leftVehicles": []
+    },
+    {
+      "leftVehicles": [
+        "vehicle6",
+        "vehicle5"
+      ]
+    },
+    {
+      "leftVehicles": []
+    },
+    {
+      "leftVehicles": [
+        "vehicle17",
+        "vehicle14",
+        "vehicle16",
+        "vehicle13"
+      ]
+    },
+    {
+      "leftVehicles": []
+    },
+    {
+      "leftVehicles": []
+    },
+    {
+      "leftVehicles": [
+        "vehicle7",
+        "vehicle8"
+      ]
+    },
+    {
+      "leftVehicles": []
+    },
+    {
+      "leftVehicles": [
+        "vehicle2",
+        "vehicle1"
+      ]
+    }
+  ]
+}
+`;
+
+exports[`Snapshot tests long queues. 1`] = `
+{
+  "stepStatuses": [
+    {
+      "leftVehicles": []
+    },
+    {
+      "leftVehicles": [
+        "vehicle1"
+      ]
+    },
+    {
+      "leftVehicles": [
+        "vehicle2"
+      ]
+    },
+    {
+      "leftVehicles": [
+        "vehicle3"
+      ]
+    },
+    {
+      "leftVehicles": [
+        "vehicle4"
+      ]
+    },
+    {
+      "leftVehicles": [
+        "vehicle5"
+      ]
+    },
+    {
+      "leftVehicles": [
+        "vehicle6"
+      ]
+    },
+    {
+      "leftVehicles": [
+        "vehicle7"
+      ]
+    },
+    {
+      "leftVehicles": [
+        "vehicle8"
+      ]
+    },
+    {
+      "leftVehicles": [
+        "vehicle9"
+      ]
+    },
+    {
+      "leftVehicles": [
+        "vehicle10"
+      ]
+    },
+    {
+      "leftVehicles": []
+    },
+    {
+      "leftVehicles": []
+    },
+    {
+      "leftVehicles": []
+    },
+    {
+      "leftVehicles": [
+        "vehicle11"
+      ]
+    },
+    {
+      "leftVehicles": [
+        "vehicle12"
+      ]
+    },
+    {
+      "leftVehicles": [
+        "vehicle13"
+      ]
+    },
+    {
+      "leftVehicles": [
+        "vehicle14"
+      ]
+    },
+    {
+      "leftVehicles": [
+        "vehicle15"
+      ]
+    },
+    {
+      "leftVehicles": [
+        "vehicle16"
+      ]
+    },
+    {
+      "leftVehicles": [
+        "vehicle17"
+      ]
+    }
+  ]
+}
+`;
+
+exports[`Snapshot tests random movement of cars. 1`] = `
+{
+  "stepStatuses": [
+    {
+      "leftVehicles": []
+    },
+    {
+      "leftVehicles": [
+        "vehicle5",
+        "vehicle4"
+      ]
+    },
+    {
+      "leftVehicles": []
+    },
+    {
+      "leftVehicles": [
+        "vehicle10",
+        "vehicle7"
+      ]
+    },
+    {
+      "leftVehicles": []
+    },
+    {
+      "leftVehicles": [
+        "vehicle18"
+      ]
+    },
+    {
+      "leftVehicles": []
+    },
+    {
+      "leftVehicles": [
+        "vehicle6",
+        "vehicle11",
+        "vehicle1",
+        "vehicle3"
+      ]
+    },
+    {
+      "leftVehicles": [
+        "vehicle19",
+        "vehicle14",
+        "vehicle16"
+      ]
+    },
+    {
+      "leftVehicles": []
+    },
+    {
+      "leftVehicles": [
+        "vehicle20"
+      ]
+    },
+    {
+      "leftVehicles": []
+    },
+    {
+      "leftVehicles": []
+    },
+    {
+      "leftVehicles": [
+        "vehicle2",
+        "vehicle8",
+        "vehicle12",
+        "vehicle9"
+      ]
+    }
+  ]
+}
+`;

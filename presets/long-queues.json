@@ -1,0 +1,46 @@
+{
+  "commands": [
+    { "type": "addVehicle", "vehicleId": "vehicle1", "startRoad": "north", "endRoad": "south" },
+    { "type": "addVehicle", "vehicleId": "vehicle2", "startRoad": "north", "endRoad": "south" },
+    { "type": "addVehicle", "vehicleId": "vehicle3", "startRoad": "north", "endRoad": "south" },
+    { "type": "addVehicle", "vehicleId": "vehicle4", "startRoad": "north", "endRoad": "south" },
+    { "type": "addVehicle", "vehicleId": "vehicle5", "startRoad": "north", "endRoad": "south" },
+    { "type": "addVehicle", "vehicleId": "vehicle6", "startRoad": "north", "endRoad": "south" },
+    { "type": "addVehicle", "vehicleId": "vehicle7", "startRoad": "north", "endRoad": "south" },
+    { "type": "addVehicle", "vehicleId": "vehicle8", "startRoad": "north", "endRoad": "south" },
+    { "type": "addVehicle", "vehicleId": "vehicle9", "startRoad": "north", "endRoad": "south" },
+    { "type": "addVehicle", "vehicleId": "vehicle10", "startRoad": "north", "endRoad": "south" },
+
+    { "type": "step" },
+
+    { "type": "addVehicle", "vehicleId": "vehicle11", "startRoad": "east", "endRoad": "west" },
+    { "type": "addVehicle", "vehicleId": "vehicle12", "startRoad": "east", "endRoad": "west" },
+    { "type": "addVehicle", "vehicleId": "vehicle13", "startRoad": "east", "endRoad": "west" },
+    { "type": "addVehicle", "vehicleId": "vehicle14", "startRoad": "east", "endRoad": "west" },
+    { "type": "addVehicle", "vehicleId": "vehicle15", "startRoad": "east", "endRoad": "west" },
+    { "type": "addVehicle", "vehicleId": "vehicle16", "startRoad": "east", "endRoad": "west" },
+    { "type": "addVehicle", "vehicleId": "vehicle17", "startRoad": "east", "endRoad": "west" },
+    { "type": "addVehicle", "vehicleId": "vehicle18", "startRoad": "east", "endRoad": "west" },
+
+    { "type": "step" },
+    { "type": "step" },
+    { "type": "step" },
+    { "type": "step" },
+    { "type": "step" },
+    { "type": "step" },
+    { "type": "step" },
+    { "type": "step" },
+    { "type": "step" },
+    { "type": "step" },
+    { "type": "step" },
+    { "type": "step" },
+    { "type": "step" },
+    { "type": "step" },
+    { "type": "step" },
+    { "type": "step" },
+    { "type": "step" },
+    { "type": "step" },
+    { "type": "step" },
+    { "type": "step" }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "commands": [
+    { "type": "addVehicle", "vehicleId": "vehicle1", "startRoad": "east", "endRoad": "north" },
+    { "type": "addVehicle", "vehicleId": "vehicle2", "startRoad": "south", "endRoad": "north" },
+    { "type": "addVehicle", "vehicleId": "vehicle3", "startRoad": "west", "endRoad": "south" },
+    { "type": "addVehicle", "vehicleId": "vehicle4", "startRoad": "north", "endRoad": "east" },
+    { "type": "addVehicle", "vehicleId": "vehicle5", "startRoad": "south", "endRoad": "west" },
+
+    { "type": "step" },
+
+    { "type": "addVehicle", "vehicleId": "vehicle6", "startRoad": "east", "endRoad": "west" },
+    { "type": "addVehicle", "vehicleId": "vehicle7", "startRoad": "west", "endRoad": "north" },
+    { "type": "addVehicle", "vehicleId": "vehicle8", "startRoad": "north", "endRoad": "south" },
+    { "type": "addVehicle", "vehicleId": "vehicle9", "startRoad": "south", "endRoad": "east" },
+    { "type": "addVehicle", "vehicleId": "vehicle10", "startRoad": "east", "endRoad": "south" },
+
+    { "type": "step" },
+    { "type": "step" },
+
+    { "type": "addVehicle", "vehicleId": "vehicle11", "startRoad": "west", "endRoad": "east" },
+    { "type": "addVehicle", "vehicleId": "vehicle12", "startRoad": "north", "endRoad": "west" },
+    { "type": "addVehicle", "vehicleId": "vehicle13", "startRoad": "south", "endRoad": "north" },
+    { "type": "addVehicle", "vehicleId": "vehicle14", "startRoad": "east", "endRoad": "north" },
+    { "type": "addVehicle", "vehicleId": "vehicle15", "startRoad": "north", "endRoad": "south" },
+
+    { "type": "step" },
+
+    { "type": "addVehicle", "vehicleId": "vehicle16", "startRoad": "west", "endRoad": "south" },
+    { "type": "addVehicle", "vehicleId": "vehicle17", "startRoad": "south", "endRoad": "east" },
+    { "type": "addVehicle", "vehicleId": "vehicle18", "startRoad": "north", "endRoad": "east" },
+    { "type": "addVehicle", "vehicleId": "vehicle19", "startRoad": "east", "endRoad": "west" },
+    { "type": "addVehicle", "vehicleId": "vehicle20", "startRoad": "west", "endRoad": "north" },
+
+    { "type": "step" },
+    { "type": "step" },
+    { "type": "step" },
+    { "type": "step" },
+    { "type": "step" },
+    { "type": "step" },
+    { "type": "step" },
+    { "type": "step" },
+    { "type": "step" },
+    { "type": "step" }
+  ]
+}

@@ -1,0 +1,2 @@
+export const MIN_GREEN_TIME_IN_SECONDS = 3;
+export const CAR_IN_QUEUE_DELAY_IN_MS = 2000;
